@@ -6,6 +6,8 @@ This is my yoRadio Vertical Display MOD for ILI9488 4" driver
 so, you an use display to test another projects, or to put another, like ILI9341; as your choice..
 the modified files are in rar file, to compare with the original; 
 is NOT edited for SD card use !
+In the file \yoRadio-Vertical-Display\src\displays\displayILI9488.cpp file, you can modify the "//print your personal info" txt,
+with you callsign/name / or other info
 Enjoy..
 
 ![452523571_505998711914080_7985301521379267401_n](https://github.com/user-attachments/assets/d415a50c-b69f-487f-8b29-106c21cb6e88)
