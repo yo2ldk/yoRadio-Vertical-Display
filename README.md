@@ -8,6 +8,7 @@ the modified files are in rar file, to compare with the original;
 is NOT edited for SD card use !
 In the file \yoRadio-Vertical-Display\src\displays\displayILI9488.cpp file, you can modify the "//print your personal info" txt,
 with you callsign/name / or other info
+DO NOT forget, to edit myoptions.h file, with YOUR hardware settings !!
 Many special thank's to the friends  Muhin555 and nva_LW, //4pda.to/forum !!
 Enjoy..
 
